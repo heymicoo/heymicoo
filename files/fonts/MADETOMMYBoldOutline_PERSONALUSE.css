@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MADETOMMYBoldOutline_PERSONALUSE';
+    src: url('fonts/MADETOMMYBoldOutline_PERSONALUSE.eot');
+    src: url('fonts/MADETOMMYBoldOutline_PERSONALUSE.eot') format('embedded-opentype'),
+         url('fonts/MADETOMMYBoldOutline_PERSONALUSE.woff2') format('woff2'),
+         url('fonts/MADETOMMYBoldOutline_PERSONALUSE.woff') format('woff'),
+         url('fonts/MADETOMMYBoldOutline_PERSONALUSE.ttf') format('truetype'),
+         url('fonts/MADETOMMYBoldOutline_PERSONALUSE.svg#MADETOMMYBoldOutline_PERSONALUSE') format('svg');
+}
